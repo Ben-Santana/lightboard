@@ -1,0 +1,1 @@
+{"on":true,"bri":219,"transition":7,"mainseg":3,"seg":[{"id":3,"start":0,"stop":240,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"Entire strip","fx":3,"sx":232,"ix":8,"pal":2,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}]}
